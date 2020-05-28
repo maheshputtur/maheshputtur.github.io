@@ -1,0 +1,6 @@
+~ $ cd maheshputtur.github.io
+~ $ echo "Hello World" > index.html
+~ $ git add --all
+ $ git commit -m "Intitial commit"
+~ $ git push -u origin master
+
